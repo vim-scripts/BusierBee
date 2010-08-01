@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3177
+
+This is a (tiny) modification of the BusyBee colour scheme ("vimscript #2549") by Patrick J. Anderson... basically just changed Function colours to be different from Normal colours (hence the "busier") and tweaked the String colour.
